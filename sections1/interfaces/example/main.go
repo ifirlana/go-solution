@@ -2,7 +2,7 @@ package example
 
 import (
 	"fmt"
-	"github.com/ifirlana/go-solutions/sections1/interfaces"
+	"github.com/ifirlana/go-solution/sections1/interfaces"
 	"bytes"
 )
 
